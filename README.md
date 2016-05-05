@@ -1,5 +1,6 @@
 <article class="markdown-body entry-content" itemprop="text">
 <h1><a id="Android_CK-PassingValues" class="anchor" href="#Android_CK-PassingValues" aria-hidden="true"></a>Android_CK-PassingValues</h1>
+<p>This project is a brief on how values can be passed from one activity to another. </p>
 <h2>What is Intent?</h2>
 
 <p>An Intent is basically a message to indicate you want something to happen. On receiving the intent, the apps will react accordingly.</p>
